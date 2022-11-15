@@ -1,0 +1,8 @@
+{
+  "name": "Ignite-introducao-typescript-20221115",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/DanielBorges91/Ignite-introducao-typescript-20221115.git",
+  "author": "Daniel Borges <danprog91@gmail.com>",
+  "license": "MIT"
+}
